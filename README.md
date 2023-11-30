@@ -1,16 +1,20 @@
 # taskmanager
+Using Riverpod for state handling
+custom http inceptor is mae(not fully)
+UI isn't focused more focused more on implementation
 
-A new Flutter project.
+for running on local computer or device
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+git clone https://github.com/Risav25Pokhrel/taskmanager
 
-A few resources to get you started if this is your first Flutter project:
+on project directory
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+flutter pub get
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+flutter run -d "device name"
+
+
+
+https://github.com/Risav25Pokhrel/taskmanager/assets/103576193/63f17fd5-fd26-47da-9b12-3be80495fc6d
+
